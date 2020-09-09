@@ -5,5 +5,5 @@
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
 @Component
-export default class Sequencing extends Vue {}
+export default class Gochi extends Vue {}
 </script>
